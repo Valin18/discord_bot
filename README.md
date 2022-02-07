@@ -1,0 +1,5 @@
+# discord_bot
+discordbot
+
+
+KENDİM İÇİN KODLADIĞIM GELİŞTİRME AŞAMASINDAKİ PYTHON İLE KODLANMIŞ DİSCORD BOTU.
